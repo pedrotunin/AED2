@@ -1,6 +1,6 @@
 #include "hash.h"
 
-// Funcao hash. Retorna o indice de uma chave na tabela. Nao alterar!
+// Funcao hash. Retorna o indice de uma chave na tabela. Nao alterar!!!
 int hash(char chave[STR_SIZE], int tamanho, int tentativa) {
     int h = chave[0];
     for (int i = 1; chave[i] != '\0'; i++)

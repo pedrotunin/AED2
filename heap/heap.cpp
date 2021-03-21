@@ -1,7 +1,7 @@
 #include "heap.h"
 #include "internal.h"
 
-// ATENCAO!!! ATENCAO!!! ATENCAO!!!
+// ATENCAO!!! ATENCAO!!! ATENCAO!!!!
 // ATENCAO!!! ATENCAO!!! ATENCAO!!!
 // ATENCAO!!! ATENCAO!!! ATENCAO!!!
 // --- CONSIDERE O INDICE ZERO (A[0]) A QUANTIDADE DE ELEMENTOS
